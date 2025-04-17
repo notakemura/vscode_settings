@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Solarized Light",
+    "workbench.editor.showTabs": "none",
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "gitlens.hovers.currentLine.over": "line"
+}
