@@ -1,6 +1,7 @@
 {
     "workbench.colorTheme": "Solarized Light",
     "workbench.editor.showTabs": "none",
+    "workbench.editor.enablePreview": false,
     "editor.mouseWheelZoom": true,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
