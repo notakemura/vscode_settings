@@ -20,3 +20,8 @@ ctl + shift + `
 ````
 ctrl + 1
 ````
+### Copilot Chat
+- show/hide  
+````
+ctrl + alt + i
+````
