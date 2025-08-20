@@ -1,8 +1,22 @@
-**Sidebar**  
-show/hide=Ctrl+B  
-focus=Ctrl+Shift+E or Ctrl+0  
-
----
-**Terminal**  
-show/hide=Ctrl+J  
-return to editor=Ctrl+1  
+### Sidebar
+- show/hide
+````
+ctrl + b
+````
+- focus
+````
+ctrl + shift + e or ctrl + 0
+````
+### Terminal
+- show/hide
+````
+ctrl + j
+````
+- open new terminal
+````
+ctl + shift + `
+````
+- return to editor
+````
+ctrl + 1
+````

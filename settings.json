@@ -1,5 +1,4 @@
 {
-    "workbench.colorTheme": "Solarized Light",
     "workbench.editor.showTabs": "none",
     "workbench.editor.enablePreview": false,
     "editor.mouseWheelZoom": true,
@@ -8,5 +7,7 @@
     "editor.formatOnType": true,
     "editor.minimap.enabled": false,
     "files.autoSave": "afterDelay",
-    "gitlens.hovers.currentLine.over": "line"
+    "gitlens.hovers.currentLine.over": "line",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "git.autofetch": true
 }
