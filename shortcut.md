@@ -25,3 +25,12 @@ ctrl + 1
 ````
 ctrl + alt + i
 ````
+### Select
+- bulk select
+````
+ctrl + alt + ↑↓
+````
+````
+// selected all
+shift + alt
+````
