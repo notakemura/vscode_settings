@@ -32,5 +32,10 @@ ctrl + alt + ↑↓
 ````
 ````
 // selected all
-shift + alt
+shift + a
+````
+### Move
+- bulk move
+````
+ctrl + [ or ]
 ````
