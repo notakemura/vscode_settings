@@ -21,7 +21,7 @@ ctl + shift + `
 ctrl + 1
 ````
 ### Copilot Chat
-- show/hide  
+- show/hide  ****
 ````
 ctrl + alt + i
 ````
@@ -38,4 +38,8 @@ shift + a
 - bulk move
 ````
 ctrl + [ or ]
+````
+### FOCUS OPEN EDITORS
+````
+ctrl + k -> e
 ````
